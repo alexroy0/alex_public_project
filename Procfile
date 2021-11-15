@@ -1,1 +1,1 @@
-web: pip install . -U && ALEX_PUBLIC_PROJECT/Makefile
+web: make test
